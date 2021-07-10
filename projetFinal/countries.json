@@ -1,0 +1,35 @@
+{
+    "221": {
+        "capital": "Dakar",
+        "independance": "04/04/1960",
+        "langue": "Francais",
+        "location": "Afrique",
+        "name": "Senegal",
+        "pib": "700",
+        "population": "16000000",
+        "president": "Macky Sall",
+        "superficie": "196792"
+    },
+    "228": {
+        "capital": "lome",
+        "independance": "25/11/1960",
+        "langue": "francais",
+        "location": "afrique",
+        "name": "togo",
+        "pib": "25000",
+        "population": "4500000",
+        "president": "niass",
+        "superficie": "25225"
+    },
+    "245": {
+        "capital": "bisseau",
+        "independance": "24/09/1973",
+        "langue": "portuguais",
+        "location": "afrique",
+        "name": "guinee biseau",
+        "pib": "45000",
+        "population": "4500000",
+        "president": "mballo",
+        "superficie": "260000"
+    }
+}
